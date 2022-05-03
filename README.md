@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinhocesar
 - 👀 I’m interested in Web and Game development
-- 🌱 I’m currently learning Javascript and GML
+- 🌱 I’m currently learning Javascript, C and GML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
