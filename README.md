@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/pinhocesar/pinhocesar/blob/output/snake.svg)
+<img href="https://raw.githubusercontent.com/pinhocesar/pinhocesar/blob/output/snake.svg" alt="Snake animation" />
 
 ###
