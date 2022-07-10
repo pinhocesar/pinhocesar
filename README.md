@@ -51,7 +51,5 @@
 <br clear="both">
 
 ![Snake animation](https://github.com/pinhocesar/pinhocesar/blob/output/github-user-contribution.svg)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ###
